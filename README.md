@@ -1,4 +1,4 @@
-Script of the lecture Cloud Computing at Technische Universität Braunschweig.  
+Short script of the lecture Cloud Computing at Technische Universität Braunschweig.  
 Lecture https://www.ibr.cs.tu-bs.de/courses/ss19/cc/index.html.  
 
 
