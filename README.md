@@ -1,14 +1,11 @@
-Script of the lecture Grundlagen maschinelles Lernen at Technische Universität Braunschweig.  
-Lecture https://www.rob.cs.tu-bs.de/de/node/629.  
+Script of the lecture Cloud Computing at Technische Universität Braunschweig.  
+Lecture https://www.ibr.cs.tu-bs.de/courses/ss19/cc/index.html.  
 
 
 **Topics**  
-* Model Selection, Bias vs. Parameteroptimization  
-* Training, Test and Validation  
-* Generalisation, Overfitting, Regularisation 
-* Lineare Regression, Generalized Linear Models 
-* Estimator, Variance  
-* Concept Learning, Decision Trees  
-* Lazy Learning  
-* Gaussian Mixtures, Gaussian Mixture Regression  
-* Unified Regression Models
+* Basic tecnologies  
+* Cloud Computing - Extended architecture
+* Virtualization
+* Infrastructure as a Service
+* Datamanagement in Clouds
+* Web-Service 
